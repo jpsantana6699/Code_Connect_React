@@ -1,0 +1,16 @@
+<svg width="180" height="54" viewBox="0 0 180 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="180" height="54" rx="12" fill="url(#gradient0)"/>
+<text x="90" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#4A9EFF" text-anchor="middle">JotaPeTech</text>
+<circle cx="25" cy="15" r="6" fill="#4A9EFF"/>
+<circle cx="155" cy="15" r="6" fill="#4A9EFF"/>
+<rect x="20" y="42" width="140" height="4" rx="2" fill="#4A9EFF"/>
+<path d="M12 27L20 20L28 27" stroke="#4A9EFF" stroke-width="2" fill="none"/>
+<path d="M152 27L160 20L168 27" stroke="#4A9EFF" stroke-width="2" fill="none"/>
+<defs>
+<linearGradient id="gradient0" x1="0" y1="0" x2="180" y2="54" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0A0E1A"/>
+<stop offset="0.5" stop-color="#001122"/>
+<stop offset="1" stop-color="#000814"/>
+</linearGradient>
+</defs>
+</svg>

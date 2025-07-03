@@ -1,0 +1,29 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+    margin-bottom: 32px;
+}
+
+.links {
+    text-align: center;
+    margin-top: 32px;
+    padding-top: 24px;
+    border-top: 1px solid #333;
+}
+
+.links a {
+    margin: 0 16px;
+    padding: 12px 24px;
+    background: linear-gradient(45deg, #0A0E1A, #001122);
+    border: 1px solid #4A9EFF;
+    border-radius: 8px;
+    color: #4A9EFF;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.links a:hover {
+    background: linear-gradient(45deg, #001122, #0A0E1A);
+    transform: translateY(-2px);
+}

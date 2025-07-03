@@ -1,21 +1,23 @@
 .card {
     width: 486px;
     border-radius: 8px;
-    background: #171D1F;
+    background: linear-gradient(135deg, #1A1F2E 0%, #0F1419 50%, #001122 100%);
+    border: 1px solid #2A3F5F;
 }
 
 .header {
     border-radius: 8px 8px 0px 0px;
-    background: #888;
+    background: linear-gradient(135deg, #2A3F5F 0%, #1A2332 100%);
     padding: 24px;
 }
 
 .header figure {
     margin: 0;
+    position: relative;
 }
 
 .body {
-    color: #BCBCBC;
+    color: #C2D3E7;
     padding: 16px;
     display: flex;
     flex-direction: column;
@@ -41,4 +43,9 @@
 
 .footer {
     padding: 16px;
+}
+
+.link {
+    text-decoration: none;
+    cursor: pointer;
 }

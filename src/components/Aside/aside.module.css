@@ -1,5 +1,55 @@
 .aside {
     border-radius: 8px;
-    background: #171D1F;
+    background: linear-gradient(135deg, #1A1F2E 0%, #0F1419 50%, #001122 100%);
     padding: 40px 16px;
+    height: 100%;
+    border: 1px solid #2A3F5F;
+}
+
+.nav {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.navItem {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #E1E7EF;
+    font-size: 16px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    background: rgba(74, 158, 255, 0.05);
+    border: 1px solid rgba(74, 158, 255, 0.1);
+}
+
+.navItem:hover {
+    background: rgba(74, 158, 255, 0.15);
+    border-color: rgba(74, 158, 255, 0.3);
+    transform: translateX(4px);
+    color: #4A9EFF;
+}
+
+.navItem:hover .icon {
+    color: #4A9EFF;
+}
+
+.icon {
+    font-size: 20px !important;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #E1E7EF;
+    transition: color 0.3s ease;
+}
+
+.label {
+    flex: 1;
 }

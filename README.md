@@ -1,16 +1,16 @@
-# Título do Curso: Next.js: estratégias de componentes Server-Side
+# JotaTech - Plataforma de Tecnologia e Inovação
 
-Curso prático de Next.js focado em Server-Side Rendering (SSR) e desenvolvimento de aplicativos web modernos.
+Plataforma moderna desenvolvida em Next.js focada em Server-Side Rendering (SSR) e desenvolvimento de aplicações web inovadoras.
 
-## 🔨 Funcionalidades do Projeto
+## 🔨 Funcionalidades do JotaTech
 
-O curso abrange o desenvolvimento de um blog dinâmico com funcionalidades como:
+A plataforma oferece funcionalidades modernas como:
 
-- Listagem de posts com paginação.
-- Exibição detalhada de cada post.
-- Renderização do lado do servidor.
-- Roteamento com App Router.
-- Integração com APIs usando fetch
+- Listagem de posts com paginação avançada.
+- Exibição detalhada de cada post com design elegante.
+- Renderização otimizada do lado do servidor.
+- Roteamento inteligente com App Router.
+- Integração com APIs modernas usando fetch
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
@@ -44,3 +44,8 @@ Após baixar o projeto, você pode abrir com seu editor de código preferido. Si
 ## 📚 Mais Informações do Curso
 
 Interessado em aprofundar seus conhecimentos em Next.js e SSR? [Acesse o curso]() que desenvolve este projeto desde o início!
+
+## 🌐 Demo do Projeto
+
+Você pode ver um exemplo do projeto funcionando em: [http://localhost:3000/posts/explorando-flexbox-no-css](http://localhost:3000/posts/explorando-flexbox-no-css)
+
